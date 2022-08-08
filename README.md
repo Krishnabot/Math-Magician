@@ -1,5 +1,5 @@
 # Math-Magician App
-- Math magicians is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to:
+Math magicians is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to:
 
  - Make simple calculations.
  - Read a random math-related quote.
@@ -10,7 +10,7 @@
 
 ## Live Demo 
 
- check this [Link](https://krishnabot.github.io/Leaderboard/dist/) for Live Demo of the Project. 
+ check this [Link](https://krishnabot.github.io/Math-Magician) for Live Demo of the Project.
 
 ## Getting Started 
 
