@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Math-Magician/static/css/main.073c9b0a.css",
-    "main.js": "/Math-Magician/static/js/main.57511929.js",
-    "static/js/787.1f6cb3fe.chunk.js": "/Math-Magician/static/js/787.1f6cb3fe.chunk.js",
-    "static/media/logo.svg": "/Math-Magician/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/Math-Magician/index.html",
-    "main.073c9b0a.css.map": "/Math-Magician/static/css/main.073c9b0a.css.map",
-    "main.57511929.js.map": "/Math-Magician/static/js/main.57511929.js.map",
-    "787.1f6cb3fe.chunk.js.map": "/Math-Magician/static/js/787.1f6cb3fe.chunk.js.map"
+    "main.css": "/Math-Magician/setup/static/css/main.073c9b0a.css",
+    "main.js": "/Math-Magician/setup/static/js/main.d2ed0212.js",
+    "static/js/787.1f6cb3fe.chunk.js": "/Math-Magician/setup/static/js/787.1f6cb3fe.chunk.js",
+    "static/media/logo.svg": "/Math-Magician/setup/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Math-Magician/setup/index.html",
+    "main.073c9b0a.css.map": "/Math-Magician/setup/static/css/main.073c9b0a.css.map",
+    "main.d2ed0212.js.map": "/Math-Magician/setup/static/js/main.d2ed0212.js.map",
+    "787.1f6cb3fe.chunk.js.map": "/Math-Magician/setup/static/js/787.1f6cb3fe.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.57511929.js"
+    "static/js/main.d2ed0212.js"
   ]
 }
