@@ -42,7 +42,7 @@ The app is ready to be deployed!
 
 👤 **Krishna**
 
-- GitHub: [@githubhandle](https://github.com/Krishnabot)
+- GitHub: [@Krishnabot](https://github.com/Krishnabot)
 - Twitter: [@last_matrix](https://twitter.com/last_matrix)
 - LinkedIn: [@krishnabot](https://www.linkedin.com/in/krishnabot/)
 - HackerRank [@KrishnaBot](https://www.hackerrank.com/KrishnaBot)
