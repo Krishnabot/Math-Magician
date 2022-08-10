@@ -1,5 +1,3 @@
-/* eslint-disable jsx-a11y/no-static-element-interactions */
-/* eslint-disable jsx-a11y/click-events-have-key-events */
 import React from 'react';
 import calculate from '../logic/calculate';
 
@@ -29,71 +27,91 @@ class Calculator extends React.Component {
       <div className="container-wrap">
         <div className="output">{element.next || element.total || 0}</div>
         <div className="row">
-          <div className="calc_key " onClick={Calc}>
+          <button type="button" className="calc_key " onClick={Calc}>
             AC
-          </div>
-          <div className="calc_key" onClick={Calc}>
+          </button>
+          <button type="button" className="calc_key" onClick={Calc}>
             +/-
-          </div>
-          <div className="calc_key" onClick={Calc}>
+          </button>
+          <button type="button" className="calc_key" onClick={Calc}>
             %
-          </div>
-          <div className="calc_key operator_key" onClick={Calc}>
+          </button>
+          <button
+            type="button"
+            className="calc_key operator_key"
+            onClick={Calc}
+          >
             ÷
-          </div>
+          </button>
         </div>
         <div className="row">
-          <div className="calc_key" onClick={Calc}>
+          <button type="button" className="calc_key" onClick={Calc}>
             7
-          </div>
-          <div className="calc_key" onClick={Calc}>
+          </button>
+          <button type="button" className="calc_key" onClick={Calc}>
             8
-          </div>
-          <div className="calc_key" onClick={Calc}>
+          </button>
+          <button type="button" className="calc_key" onClick={Calc}>
             9
-          </div>
-          <div className="calc_key operator_key" onClick={Calc}>
+          </button>
+          <button
+            type="button"
+            className="calc_key operator_key"
+            onClick={Calc}
+          >
             x
-          </div>
+          </button>
         </div>
         <div className="row">
-          <div className="calc_key" onClick={Calc}>
+          <button type="button" className="calc_key" onClick={Calc}>
             4
-          </div>
-          <div className="calc_key" onClick={Calc}>
+          </button>
+          <button type="button" className="calc_key" onClick={Calc}>
             5
-          </div>
-          <div className="calc_key" onClick={Calc}>
+          </button>
+          <button type="button" className="calc_key" onClick={Calc}>
             6
-          </div>
-          <div className="calc_key operator_key" onClick={Calc}>
+          </button>
+          <button
+            type="button"
+            className="calc_key operator_key"
+            onClick={Calc}
+          >
             -
-          </div>
+          </button>
         </div>
         <div className="row">
-          <div className="calc_key" onClick={Calc}>
+          <button type="button" className="calc_key" onClick={Calc}>
             1
-          </div>
-          <div className="calc_key" onClick={Calc}>
+          </button>
+          <button type="button" className="calc_key" onClick={Calc}>
             2
-          </div>
-          <div className="calc_key" onClick={Calc}>
+          </button>
+          <button type="button" className="calc_key" onClick={Calc}>
             3
-          </div>
-          <div className="calc_key operator_key" onClick={Calc}>
+          </button>
+          <button
+            type="button"
+            className="calc_key operator_key"
+            onClick={Calc}
+          >
             +
-          </div>
+          </button>
         </div>
         <div className="last_row">
-          <div className="calc_key zero_key" onClick={Calc}>
+          <button type="button" className="calc_key zero_key" onClick={Calc}>
             0
-          </div>
-          <div className="calc_key" onClick={Calc}>
+          </button>
+          <button type="button" className="calc_key" onClick={Calc}>
             .
-          </div>
-          <div className="calc_key operator_key" onClick={Calc}>
+          </button>
+          <button
+            type="button"
+            className="calc_key operator_key"
+            onClick={Calc}
+          >
             =
-          </div>
+          </button>
         </div>
       </div>
     );
