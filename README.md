@@ -9,7 +9,7 @@ Math magicians is a website for all fans of mathematics. It is a Single Page App
 - React [Create React App](https://github.com/facebook/create-react-app)
 
 ## Project SnapShot
- ![Math-Magician-SnapShot1](https://user-images.githubusercontent.com/40334904/183723080-c36eb54f-f39f-4e7e-94da-b62f0eabae9d.png)
+![Math-Magician_Snapshot](https://user-images.githubusercontent.com/40334904/183843188-c7e06de2-18ca-46ad-bca6-a021e432b065.png)
 
 ## Live Demo 
 
