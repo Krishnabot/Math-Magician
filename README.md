@@ -2,13 +2,18 @@
 Math magicians is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to:
 
  - Make simple calculations.
+ _ Generate Random Quotes. 
 
 ## Built With
 
 - React [Create React App](https://github.com/facebook/create-react-app)
 
 ## Project SnapShot
-![Math-Magician_Snapshot](https://user-images.githubusercontent.com/40334904/183843188-c7e06de2-18ca-46ad-bca6-a021e432b065.png)
+![Math-Magician_Snapshot1](https://user-images.githubusercontent.com/40334904/185775673-24ad5fcd-e651-4556-84b9-78782dfb0fe4.png)
+![Math-Magician_Snapshot2](https://user-images.githubusercontent.com/40334904/185775685-413e7358-7aa9-4987-8767-9e174c99dc69.png)
+![Math-Magician_Snapshot3](https://user-images.githubusercontent.com/40334904/185775698-cd837fce-90e9-446a-8f4f-f326d23b6118.png)
+
+
 
 ## Live Demo 
 
@@ -64,6 +69,7 @@ Feel free to check the [issues page](https://github.com/Krishnabot/Math-Magician
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
+- [Random Math Quote genretator](https://moldovean.github.io/apps/quote/json/quotes.json)
 
 ## 📝 License
 

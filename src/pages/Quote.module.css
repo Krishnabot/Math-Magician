@@ -1,0 +1,37 @@
+.quotescontainer {
+  display: flex;
+  justify-content: center;
+}
+
+.quotesbox {
+  display: inline-block;
+  border-radius: 10px 0 10px 0;
+  margin: 10rem auto;
+  width: 40rem;
+  padding: 3rem;
+  background: transparent;
+}
+
+.quote {
+  font-family: "Noto Sans SC", sans-serif;
+  font-size: 3rem;
+  margin-bottom: 1.5rem;
+  background: transparent;
+  color: #fff;
+}
+
+.author {
+  font-family: "Noto Sans SC", sans-serif;
+  display: flex;
+  justify-content: flex-end;
+  font-size: 1.9rem;
+  background: transparent;
+}
+
+.newquote {
+  padding: 1em;
+  border-radius: 10px;
+  font-size: 1.5rem;
+  background: rgb(93, 93, 231);
+  color: #fff;
+}
