@@ -17,7 +17,8 @@ Math magicians is a website for all fans of mathematics. It is a Single Page App
 
 ## Live Demo 
 
- check this [Link](https://krishnabot.github.io/Math-Magician) for Live Demo of the Project.
+- check this [Link](https://math-magician-krishna.herokuapp.com/) for Live Deployment of the Project In Hereku.
+- check this [Link](https://mathmagicianbot.netlify.app/) for Live Deployment of the Project In Netlify.
 
 ## Getting Started 
 
