@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import styles from './Quote.module.css';
 
 function Quote() {
   const [quote, setQuote] = useState('');
@@ -25,14 +26,11 @@ function Quote() {
   };
 
   return (
-    <div className="quotes-container">
-      <div id="quotes-box">
-        <div id="text">{quote}</div>
-        <div id="author">
-          {' '}
-          {author}
-        </div>
-        <button type="button" onClick={handleClick} id="new-quote">
+    <div className={styles.quotescontainer}>
+      <div className={styles.quotesbox}>
+        <div className={styles.quote}>{quote}</div>
+        <div className={styles.author}>{author}</div>
+        <button type="button" onClick={handleClick} className={styles.newquote}>
           New quote
         </button>
       </div>

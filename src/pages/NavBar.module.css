@@ -1,0 +1,34 @@
+.navbarwrap {
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+}
+
+.navbar {
+  font-size: 40px;
+  background: transparent;
+}
+
+.navlink {
+  list-style-type: none;
+  padding: 2em;
+  float: left;
+  text-decoration: none !important;
+  background: transparent;
+}
+
+.activelink {
+  text-decoration: none;
+  color: rgb(27, 1, 145);
+  background: transparent;
+  box-shadow: 1px 3px 40px 16px rgba(0, 0, 0, 0.77);
+  -webkit-box-shadow: 1px 3px 40px 16px rgba(0, 0, 0, 0.77);
+  -moz-box-shadow: 1px 3px 40px 16px rgba(0, 0, 0, 0.77);
+  padding: 0.3em;
+  border-radius: 5px;
+}
+
+.activelink:hover {
+  color: rgb(42, 85, 165);
+  transform: scale(1.2);
+}
